@@ -1,0 +1,14 @@
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\bin\Debug\net8.0\Snake_Game.exe
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\bin\Debug\net8.0\Snake_Game.deps.json
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\bin\Debug\net8.0\Snake_Game.runtimeconfig.json
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\bin\Debug\net8.0\Snake_Game.dll
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\bin\Debug\net8.0\Snake_Game.pdb
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.AssemblyInfoInputs.cache
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.AssemblyInfo.cs
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.csproj.CoreCompileInputs.cache
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.dll
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\refint\Snake_Game.dll
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.pdb
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\Snake_Game.genruntimeconfig.cache
+C:\Users\noobg\Desktop\CODING\csharpders\Snake_Game\Snake_Game\obj\Debug\net8.0\ref\Snake_Game.dll
